@@ -1,0 +1,43 @@
+# Tools
+duckduckgo-search
+arxiv
+wikipedia
+bs4
+validators
+openpyxl
+
+# Core
+wheel 
+streamlit
+python-dotenv
+ipykernel
+
+# LangChain & extensions (all <0.4.0)
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+langchain-text-splitters
+
+# Pydantic v2 for LangChain 0.3.x
+pydantic
+
+
+# Transformers & embeddings
+sentence-transformers
+huggingface-hub
+torch
+
+# Data & utilities
+duckdb
+beautifulsoup4
+
+# LLMs & other APIs
+langsmith
+
+# Numerical
+numpy
+protobuf==3.20.*
+pandas

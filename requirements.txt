@@ -20,6 +20,7 @@ langchain-groq
 langchain-huggingface
 faiss-cpu
 langchain-text-splitters
+langchain_experimental
 
 # Pydantic v2 for LangChain 0.3.x
 pydantic
